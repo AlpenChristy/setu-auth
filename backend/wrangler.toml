@@ -1,0 +1,10 @@
+name = "setuauth-backend"
+main = "main.py"
+compatibility_date = "2026-06-01"
+compatibility_flags = ["python_workers"]
+workers_dev = true
+
+[[d1_databases]]
+binding = "DB"
+database_name = "setuauth-db"
+database_id = "be61f95b-c88c-4fb5-87c0-b86eec7547fc"

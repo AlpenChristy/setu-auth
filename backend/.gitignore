@@ -1,0 +1,11 @@
+venv/
+.venv/
+.venv-workers/
+__pycache__/
+*.pyc
+.git/
+.github/
+.idea/
+.vscode/
+.wrangler/
+wrangler.log

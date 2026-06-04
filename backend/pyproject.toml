@@ -1,0 +1,15 @@
+[project]
+name = "setuauth-backend"
+version = "0.1.0"
+# Only starlette is needed — FastAPI is NOT used (avoids pydantic_core's 4MB WASM binary).
+# anyio is starlette's async backend; httpx is NOT needed (removed).
+dependencies = [
+    "starlette",
+    "anyio"
+]
+
+[dependency-groups]
+dev = [
+    "workers-py",
+    "workers-runtime-sdk"
+]
