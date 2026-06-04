@@ -2,6 +2,10 @@
 
 A secure, offline-first face recognition and geofenced attendance logging system.
 
+* **Project Proposal**: [View Proposal](https://drive.google.com/file/d/1iaHeF1t47N2EaKrB1Bt-Ack3ONhqET9p/view?usp=drive_link)
+* **Project APK**: [Download APK](https://drive.google.com/file/d/1ypL5G00NaADHt58rehbIe2RELSST5Q3e/view?usp=drive_link)
+* **Developed by**: Isha Solanki, Alpen Christy
+
 ---
 
 ## Credentials
